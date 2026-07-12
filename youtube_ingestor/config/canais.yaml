@@ -1,0 +1,54 @@
+dominio: marketing_digital
+
+projeto:
+  nome: Bet Exposure Analytics
+  descricao: Monitoramento da exposição publicitária de bets em conteúdos da CazéTV durante a Copa do Mundo.
+
+canais:
+  - nome: CazéTV
+    handle: "@CazeTV"
+    intervalo_horas: 6
+    idioma_legenda: "pt"
+
+vocabulario:
+  bets:
+    - bet
+    - bets
+    - aposta
+    - apostas
+    - apostar
+    - odds
+    - bonus
+    - bônus
+    - cassino
+    - jogo responsável
+    - publicidade
+    - patrocínio
+    - patrocinador
+    - promoção
+    - cupom
+    - código promocional
+    - regulação
+    - regulamentação
+    - Tabata
+    - Casimiro
+    - CazéTV
+
+marcas:
+  - Betano
+  - Superbet
+  - Bet365
+  - KTO
+  - EstrelaBet
+  - Betnacional
+  - Novibet
+
+marcos_temporais:
+  - nome: inicio_copa
+    data: "2026-06-11"
+
+  - nome: fala_tabata
+    data: "2026-06-25"
+
+  - nome: fase_eliminatoria
+    data: "2026-06-28"
